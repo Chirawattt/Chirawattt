@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### I'm Chirawat or you can call me "Bus";
+### I'm currently studying at KMUTNB as an IT major;
+### Now I'm interested in develop a full-stack side;
 <!--
 **Chirawattt/Chirawattt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
