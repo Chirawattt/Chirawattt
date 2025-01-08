@@ -7,7 +7,9 @@
 - 📫 How to reach me: chirawat.yana@hotmail.com
 - 😄 Pronouns: he/him
 
-> Fundamental of IT - Learned about Basic of IT [Word, Excel, Powerpoint] and Basic of HTML & CSS
+### > Skill that learned from my KMUTNB <
+### - Fundamental Of IT
+  > Learned about Bsic of IT [Word, Excel, Powerpoint] and some Basic of HTML, CSS
 > Problem Solving IT - Learned about Command Things in Programming [DataTypes, Mathmatical Operator, Logical Operator, Hierachy Operation, Algorithms for Sorting]
   > Writing the Algorithms by Using [FlowChart]
   > Using Python in this course for [expression, operator, if-else, switch case, function, Object, Class]
