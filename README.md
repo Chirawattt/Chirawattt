@@ -7,6 +7,10 @@
 - 📫 How to reach me: chirawat.yana@hotmail.com
 - 😄 Pronouns: he/him
 
+### > My Skill
+> - Language: C++, Python, Java, JavaScript, PHP, SQL
+> - Framework: 
+
 ### > Skill that learned from my KMUTNB <
 ### - Fundamental Of IT
 > - Learned about Basic of IT [Word, Excel, Powerpoint] and some Basic of HTML, CSS
