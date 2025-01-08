@@ -9,15 +9,14 @@
 
 ### > Skill that learned from my KMUTNB <
 ### - Fundamental Of IT
-  > Learned about Basic of IT [Word, Excel, Powerpoint] and some Basic of HTML, CSS
+> - Learned about Basic of IT [Word, Excel, Powerpoint] and some Basic of HTML, CSS
 ### - Problem Solving IT
->  - Learned about Common Things in Programming [Data types, Mathmatical Operator, Logical Operator, Hierachy Operation, Algorithms for Sorting].
-  - Writting the Algorithms by Using [Flowchart].
-  - Using Python along with this course such as [Expression, Operator, Condition, Loop, Function, Object, Class]
-  - Using Pygame for created a game to be Final Project of this course. [My Game: ]
+> - Learned about Common Things in Programming [Data types, Mathmatical Operator, Logical Operator, Hierachy Operation, Algorithms for Sorting].
+> - Writting the Algorithms by Using [Flowchart].
+> - Using Python along with this course such as [Expression, Operator, Condition, Loop, Function, Object, Class]
+> - Using Pygame for created a game to be Final Project of this course. [My Game: ]
 ### - Computer Programming 
-  > Learned Basic of how to Program by Using C++
-  > 
+> - Learned Basic of how to Program by Using C++
 ### - Object-Oriented Programming (Java)
 
 
