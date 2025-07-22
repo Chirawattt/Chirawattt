@@ -76,8 +76,8 @@ This is the set of tools and technologies I'm comfortable working with:
       <br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-      <br>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="48" height="48" alt="Postman" />
+      <br>Postman
     </td>
      <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
@@ -94,10 +94,12 @@ This is the set of tools and technologies I'm comfortable working with:
 
 ### 📊 My GitHub Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chirawattt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Chirawat's GitHub Stats"/>
-</a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirawattt&layout=compact&theme=tokyonight&hide_border=true" alt="Chirawat's Top Languages"/>
-</a>
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chirawattt&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Chirawat's GitHub Stats"/>
+  </a>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chirawattt&layout=compact&theme=tokyonight&hide_border=true" alt="Chirawat's Top Languages"/>
+  </a>
+</div>
